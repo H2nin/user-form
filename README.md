@@ -1,5 +1,5 @@
 # User Form Project
-
+ 
 Simple PHP web app where users can submit their name and age. Data is saved in MySQL and displayed in a table. Each record has a toggle button to change status between 0 and 1.
 
 ## How to Run Locally
